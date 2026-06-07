@@ -1,7 +1,7 @@
 ID,Name,Description,Category,Unit group,Property type
-341fd786-b2ad-4552-a762-5eafcab45dee,Amount of substance,,Technical flow properties,Units of amount of substance,physical
 93a60a56-a3c8-19da-a746-0800200c9a66,Area,,Technical flow properties,Units of area,physical
 93a60a56-a3c8-21da-a746-0800200c9a66,Area*Time,,Technical flow properties,Units of area*time,physical
+341fd786-b2ad-4552-a762-5eafcab45dee,Chemical amount,,Technical flow properties,Units of chemical amount,physical
 f6811440-ee37-11de-8a39-0800200c9a66,Energy,,Technical flow properties,Units of energy,physical
 93a60a56-a3c8-14da-a746-0800200c9a66,Gross calorific value,,Technical flow properties,Units of energy,physical
 e406dc2a-a672-319e-a9b8-87d4cdd8593a,Guest night,,Technical flow properties,Units of count,physical
